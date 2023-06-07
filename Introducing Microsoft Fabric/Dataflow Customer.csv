@@ -1,0 +1,421 @@
+Data Received: 2023-05-06
+Record Count: 417 
+
+CustomerID,FirstName,MiddleName,LastName,Salary,Gender,Address,Region,PostalCode
+29485,Catherine,R.,Abel,87514.00,NULL,57251 Serene Blvd,"Van Nuys, California, United States",91411-7386
+29486,Kim,NULL,Abercrombie,74451.00,NULL,Tanger Factory,"Branch, Minnesota, United States",55056
+29489,Frances,B.,Adams,106444.00,NULL,6900 Sisk Road,"Modesto, California, United States",95354
+29490,Margaret,J.,Smith,65140.00,NULL,Lewiston Mall,"Lewiston, Idaho, United States",83501-7386
+29492,Jay,NULL,Adams,118583.00,Male,Blue Ridge Mall,"Kansas City, Missouri, United States",64106
+29494,Samuel,N.,Agcaoili,64374.00,Male,No. 25800-130 King Street West,"Toronto, Ontario, Canada",M4B 1V5
+29496,Robert,E.,Ahlering,NULL,Male,6500 East Grant Road,"Tucson, Arizona, United States",85701
+29497,François,NULL,Ferrier,69042.00,Male,Eastridge Mall,"Casper, Wyoming, United States",82601
+29499,Amy,E.,Alberts,104942.00,NULL,252851 Rowan Place,"Richmond, British Columbia, Canada",V6B 3P7
+29502,Paul,L.,Alcorn,97126.00,Male,White Mountain Mall,"Rock Springs, Wyoming, United States",82901
+29503,Gregory,F.,Alderson,113269.00,Male,25981 College Street,"Montreal, Quebec, Canada",H1Y 2H5
+29503,Gregory,F.,Alderson,92714.00,Male,26910 Indela Road,"Montreal, Quebec, Canada",H1Y 2H5
+29505,Michelle,NULL,Alexander,100993.00,NULL,22589 West Craig Road,"North Las Vegas, Nevada, United States",89030-7386
+29506,Sean,P.,Jacobson,115847.00,Male,2551 East Warner Road,"Gilbert, Arizona, United States",85233
+29508,Marvin,N.,Allen,81704.00,Male,First Colony Mall,"Sugar Land, Texas, United States",77478
+29510,Cecil,J.,Allison,100553.00,Male,254 Colonnade Road,"Nepean, Ontario, Canada",K2J 2W5
+29511,Oscar,L.,Alpuerto,96939.00,Male,Rocky Mountain Pines Outlet,"Loveland, Colorado, United States",80537
+29515,Maxwell,J.,Amland,109293.00,Male,Suite 99320 255 - 510th Avenue S.W.,"Calgary, Alberta, Canada",T2P 2G8
+29517,Ramona,J.,Antrim,90597.00,NULL,998 Forest Road,"Saginaw, Michigan, United States",48601
+29521,Tom,H,Johnston,100904.00,Male,Belz Factory Outlet,"Las Vegas, Nevada, United States",89106
+29522,Thomas,B.,Armstrong,90520.00,Male,Fox Hills,"Culver City, California, United States",90232
+29523,John,NULL,Arthur,97614.00,Male,2345 North Freeway,"Houston, Texas, United States",77003
+29524,Chris,NULL,Ashton,66212.00,Male,70 N.W. Plaza,"Saint Ann, Missouri, United States",63074
+29525,Teresa,NULL,Atkinson,114943.00,NULL,The Citadel Commerce Plaza,"City Of Commerce, California, United States",90040
+29527,Robert,A.,Avalos,74883.00,Male,700 Bureau Road,"Montreal, Quebec, Canada",H1Y 2H7
+29528,Stephen,M.,Ayers,111089.00,Male,2533 Eureka Rd.,"Southgate, Michigan, United States",48195
+29530,Daniel,NULL,Blanco,102210.00,Male,Suite 800 2530 Slater Street,"Ottawa, Ontario, Canada",K4B 1T7
+29531,Cory,K.,Booth,77427.00,Male,Eastern Beltway Center,"Las Vegas, Nevada, United States",89106
+29532,James,B.,Bailey,112106.00,Male,Southgate Mall,"Missoula, Montana, United States",59801
+29533,Douglas,A.,Baldwin,93021.00,Male,Horizon Outlet Center,"Holland, Michigan, United States",49423
+29535,Wayne,N.,Banack,60819.00,Male,48255 I-10 E. @ Eastpoint Blvd.,"Baytown, Texas, United States",77520
+29536,Robert,L.,Barker,68195.00,Male,6789 Warren Road,"Westland, Michigan, United States",48185
+29539,Josh,NULL,Barnhill,76439.00,Male,25 First Canadian Place,"Toronto, Ontario, Canada",M4B 1V5
+29541,Gytis,M,Barzdukas,94503.00,NULL,25900-700-9th Ave S.W.,"Calgary, Alberta, Canada",T2P 2G8
+29544,Shaun,NULL,Beasley,105808.00,Male,2500-622 5th Ave Sw,"Calgary, Alberta, Canada",T2P 2G8
+29545,John,A.,Beaver,107612.00,Male,1318 Lasalle Street,"Bothell, Washington, United States",98011
+29545,John,A.,Beaver,119942.00,Male,99300 223rd Southeast,"Bothell, Washington, United States",98011
+29546,Christopher,R.,Beck,72473.00,Male,"93-2501, Blackfriars Road,","London, England, United Kingdom",SE1 8HL
+29548,Ann,NULL,Beebe,95747.00,NULL,25537 Hillside Avenue,"Victoria, British Columbia, Canada",V8V
+29550,Stanley,A.,Alan,83404.00,Male,567 Sw Mcloughlin Blvd,"Milwaukie, Oregon, United States",97222
+29553,Edna,J.,Benson,113944.00,NULL,Po Box 8035996,"Dallas, Texas, United States",75201
+29554,Payton,P.,Benson,93992.00,Male,997000 Telegraph Rd.,"Southfield, Michigan, United States",48034
+29557,Alexander,J.,Berger,112472.00,Male,"253711 Mayfield Place, Unit 150","Richmond, British Columbia, Canada",V6B 3P7
+29558,John,M.,Berger,84276.00,Male,5700 Explorer Drive,"Mississauga, Ontario, Canada",L4W 5J3
+29559,Robert,M.,Bernacchi,80711.00,Male,25915 140th Ave Ne,"Bellevue, Washington, United States",98004
+29559,Robert,M.,Bernacchi,112182.00,Male,2681 Eagle Peak,"Bellevue, Washington, United States",98004
+29560,Matthias,NULL,Berndt,88582.00,Male,Escondido,"Escondido, California, United States",92025
+29562,Steven,B.,Brown,85474.00,Male,5500 Grossmont Center Drive,"La Mesa, California, United States",91941
+29565,Jimmy,NULL,Bischoff,78543.00,Male,3065 Santa Margarita Parkway,"Trabuco Canyon, California, United States",92679
+29566,Mae,M.,Black,75868.00,NULL,Redford Plaza,"Redford, Michigan, United States",48239
+29567,Jackie,E.,Blackwell,94513.00,NULL,2575 Bloor Street East,"Toronto, Ontario, Canada",M4B 1V6
+29568,Donald,L.,Blanton,63924.00,Male,Corporate Office,"El Segundo, California, United States",90245
+29569,Linda,E.,Burnett,70023.00,NULL,2505 Gateway Drive,"North Sioux City, South Dakota, United States",57049
+29570,Michael,Greg,Blythe,72865.00,Male,9903 Highway 6 South,"Houston, Texas, United States",77003
+29571,Gabriel,L.,Bockenkamp,71592.00,NULL,67 Rainer Ave S,"Renton, Washington, United States",98055
+29573,Luis,NULL,Bonifaz,111455.00,NULL,72502 Eastern Ave.,"Bell Gardens, California, United States",90201
+29574,Randall,NULL,Boseman,114300.00,Male,2500 North Stemmons Freeway,"Dallas, Texas, United States",75201
+29576,Eli,NULL,Bowen,115982.00,Male,63 West Beaver Creek,"Richmond Hill, Ontario, Canada",L4E 3M5
+29577,Lester,J.,Bowman,115445.00,Male,770 Notre Datme Quest Bureau 800,"Montreal, Quebec, Canada",H1Y 2H7
+29579,Cornelius,L.,Brandon,80570.00,Male,789 West Alameda,"Westminster, Colorado, United States",80030
+29580,Richard,NULL,Bready,65620.00,Male,4251 First Avenue,"Seattle, Washington, United States",98104
+29582,Ted,NULL,Bremer,107015.00,Male,Bldg. 9n/99298,"Redmond, Washington, United States",98052
+29583,Alan,NULL,Brewer,74265.00,Male,4255 East Lies Road,"Carol Stream, Illinois, United States",60188
+29584,Walter,J.,Brian,87615.00,Male,25136 Jefferson Blvd.,"Culver City, California, United States",90232
+29585,Christopher,M.,Bright,110574.00,Male,Washington Square,"Portland, Oregon, United States",97205
+29587,John,R.,Brooks,115869.00,Male,99-3 Forest Works,"London, England, United Kingdom",E17 6JF
+29588,Willie,P.,Brooks,108994.00,Male,Holiday Village Mall,"Great Falls, Montana, United States",59401
+29590,Jo,NULL,Brown,110064.00,Male,250000 Eight Mile Road,"Detroit, Michigan, United States",48226
+29591,Robert,NULL,Brown,99339.00,Male,250880 Baur Blvd,"Saint Louis, Missouri, United States",63103
+29593,Mary,K.,Browning,65150.00,NULL,Noah Lane,"Chicago, Illinois, United States",60610
+29596,Eric,J.,Brumfield,67925.00,Male,600 Slater Street,"Ottawa, Ontario, Canada",K4B 1S2
+29598,Michael,NULL,Brundage,119333.00,Male,22555 Paseo De Las Americas,"San Diego, California, United States",92102
+29599,Shirley,R.,Bruner,87191.00,NULL,4781 Highway 95,"Sandpoint, Idaho, United States",83864
+29600,June,B.,Brunner,111424.00,NULL,678 Eastman Ave.,"Midland, Michigan, United States",48640
+29601,Dirk,J.,Bruno,77305.00,Male,251 Indell Lane,"Brampton, Ontario, Canada",L6W 2T7
+29603,Janaina Barreiro Gambaro,NULL,Bueno,99324.00,NULL,995 Crescent,"Richmond Hill, Ontario, Canada",L4E 3M5
+29605,Megan,E.,Burke,94852.00,NULL,Arcadia Crossing,"Phoenix, Arizona, United States",85004
+29606,Karren,K.,Burkhardt,95275.00,NULL,2502 Evergreen Ste E,"Everett, Washington, United States",98201
+29608,Timothy,B.,Burnett,83321.00,Male,45259 Canada Way,"Burnaby, British Columbia, Canada",V5G 4S4
+29611,Jared,L.,Bustamante,109293.00,Male,3307 Evergreen Blvd,"Washougal, Washington, United States",98671
+29612,Richard,A.,Byham,73767.00,Male,Knaves Beech Ind.,"High Wycombe, England, United Kingdom",HP10 9QY
+29614,Ryan,NULL,Calafato,74380.00,Male,254480 River Rd,"Richmond, British Columbia, Canada",V6B 3P7
+29615,Mari,B.,Caldwell,108839.00,NULL,2524 Barlby Road,"London, England, United Kingdom",W10 6BL
+29616,Barbara,J.,Calone,86093.00,NULL,25306 Harvey Rd.,"College Station, Texas, United States",77840
+29617,Lindsey,R.,Camacho,78699.00,NULL,S Sound Ctr Suite 25300,"Lacey, Washington, United States",98503
+29618,Gustavo,NULL,Camargo,61085.00,NULL,Ellesfield Ave,"Bracknell, England, United Kingdom",RG12 8TB
+29620,Joan,M.,Campbell,73036.00,NULL,P.O. Box 44000,"Winnipeg, Manitoba, Canada",R3
+29622,Henry,L.,Campen,116281.00,Male,2507 Pacific Ave S,"Tacoma, Washington, United States",98403
+29623,Chris,NULL,Cannon,90929.00,Male,Lakewood Mall,"Lakewood, California, United States",90712
+29625,Suzana De Abreu,A.,Canuto,88648.00,NULL,20225 Lansing Ave,"Montreal, Quebec, Canada",H1Y 2H7
+29627,Johnny,A.,Caprio,83284.00,Male,22580 Free Street,"Toronto, Ontario, Canada",M4B 1V7
+29629,Carlton,M.,Carlisle,93575.00,Male,400-25155 West Pender St,"Vancouver, British Columbia, Canada",V7L 4J4
+29631,Jane,N.,Carmichael,65903.00,NULL,5967 W Las Positas Blvd,"Pleasanton, California, United States",94566
+29632,Jovita,A.,Carmody,73148.00,NULL,253950 N.E. 178th Place,"Woodinville, Washington, United States",98072
+29635,Rob,NULL,Caron,67761.00,Male,Ward Parkway Center,"Kansas City, Missouri, United States",64106
+29636,Andy,NULL,Carothers,61004.00,Male,566 S. Main,"Cedar City, Utah, United States",84720
+29637,Donna,F.,Carreras,87297.00,NULL,12345 Sterling Avenue,"Irving, Texas, United States",75061
+29638,Rosmarie,J.,Carroll,61847.00,NULL,39933 Mission Oaks Blvd,"Camarillo, California, United States",93010
+29639,Joseph,N.,Castellucio,78920.00,Male,2511 Baker Road,"Toronto, Ontario, Canada",M4B 1V7
+29641,Raul,E.,Casts,103886.00,Male,99040 California Avenue,"Sand City, California, United States",93955
+29643,Matthew,J.,Cavallari,96522.00,Male,North 93270 Newport Highway,"Spokane, Washington, United States",99202
+29644,Brigid,F.,Cavendish,71036.00,NULL,Banbury,"Oxon, England, United Kingdom",OX16 8RS
+29645,Andrew,NULL,Cencini,108116.00,Male,558 S 6th St,"Klamath Falls, Oregon, United States",97601
+29646,Stacey,M.,Cereghino,108419.00,NULL,220 Mercy Drive,"Garland, Texas, United States",75040
+29649,Pat,A.,Chambers,68302.00,Male,"30025 Wayburne Drive, Suite 275","Burnaby, British Columbia, Canada",V5G 4W1
+29650,Forrest,J.,Chandler,111704.00,Male,The Quad @ WestView,"Whittier, California, United States",90605
+29651,Lee,J.,Chapla,90136.00,Male,99433 S. Greenbay Rd.,"Racine, Wisconsin, United States",53182
+29653,Pei,NULL,Chow,100394.00,Male,4660 Rodeo Road,"Santa Fe, New Mexico, United States",87501
+29654,Yao-Qiang,NULL,Cheng,70542.00,Male,25 N State St,"Chicago, Illinois, United States",60610
+29655,Nicky,E.,Chesnut,108408.00,NULL,9920 North Telegraph Rd.,"Pontiac, Michigan, United States",48342
+29659,Ruth,A.,Choin,115448.00,NULL,7760 N. Pan Am Expwy,"San Antonio, Texas, United States",78204
+29660,Anthony,NULL,Chor,62774.00,Male,Riverside,"Sherman Oaks, California, United States",91403
+29662,Jill,J.,Christie,103517.00,NULL,54254 Pacific Ave.,"Stockton, California, United States",95202
+29663,Alice,NULL,Clark,99048.00,NULL,42500 W 76th St,"Chicago, Illinois, United States",60610
+29666,Jane,NULL,Clayton,NULL,NULL,Po Box 83270,"Vancouver, British Columbia, Canada",V7L 4J4
+29668,Connie,L.,Coffman,61064.00,NULL,25269 Wood Dale Rd.,"Wood Dale, Illinois, United States",60191
+29671,Pat,NULL,Coleman,90157.00,Male,25245 Rue Sherbrooke Ouest,"Montreal, Quebec, Canada",H1Y 2H5
+29673,John,L.,Colon,64565.00,Male,77 Beale Street,"San Francisco, California, United States",94109
+29674,Scott,A.,Colvin,74547.00,Male,25550 Executive Dr,"Elgin, Illinois, United States",60120
+29677,William,J.,Conner,109557.00,Male,2560 Bay Street,"Toronto, Ontario, Canada",M4B 1V7
+29680,Dorothy,J.,Contreras,87582.00,NULL,Suite 25800 3401 - 10810th Avenue,"Surrey, British Columbia, Canada",V3T 4W3
+29682,Scott,NULL,Cooper,116916.00,Male,Pavillion @ Redlands,"Redlands, California, United States",92373
+29683,Eva,NULL,Corets,115157.00,NULL,2540 Dell Range Blvd,"Cheyenne, Wyoming, United States",82001
+29684,Marlin,M.,Coriell,111848.00,Male,99800 Tittabawasee Rd.,"Saginaw, Michigan, United States",48601
+29686,Jack,NULL,Creasey,86338.00,Male,Factory Merchants,"Barstow, California, United States",92311
+29688,Grant,NULL,Culbertson,86897.00,Male,399700 John R. Rd.,"Madison Heights, Michigan, United States",48071
+29689,Scott,NULL,Culp,60985.00,Male,750 Lakeway Dr,"Bellingham, Washington, United States",98225
+29690,Conor,NULL,Cunningham,60161.00,Male,Sports Store At Park City,"Park City, Utah, United States",84098
+29692,Thierry,NULL,D'Hers,80779.00,Male,Box 99354 300 Union Street,"Saint John, Brunswick, Canada",E2P 1E3
+29695,Megan,N.,Davis,116473.00,NULL,48995 Evergreen Wy.,"Everett, Washington, United States",98201
+29696,Alvaro,NULL,De Matos Miranda Filho,114664.00,NULL,Mountain Square,"Upland, California, United States",91786
+29698,Jacob,N.,Dean,101544.00,Male,#9900 2700 Production Way,"Burnaby, British Columbia, Canada",V5A 4X1
+29699,Alexander,J.,Deborde,108529.00,Male,6777 Kingsway,"Burnaby, British Columbia, Canada",V5H 3Z7
+29702,Aidan,NULL,Delaney,86501.00,NULL,Corporate Office,"Garland, Texas, United States",75040
+29703,Stefan,NULL,Delmarco,116619.00,Male,Incom Sports Center,"Ontario, California, United States",91764
+29705,Della,F.,Demott Jr,98835.00,NULL,25575 The Queensway,"Etobicoke, Ontario, Canada",M9W 3P3
+29708,Prashanth,NULL,Desai,88744.00,Male,Sapp Road West,"Round Rock, Texas, United States",78664
+29709,Bev,L.,Desalvo,75644.00,NULL,7009 Sw Hall Blvd.,"Tigard, Oregon, United States",97223
+29710,Brenda,NULL,Diaz,83442.00,NULL,2560 E. Newlands Dr,"Fernley, Nevada, United States",89408
+29711,Gabriele,NULL,Dickmann,112383.00,NULL,250551 Shellbridge Way,"Richmond, British Columbia, Canada",V6B 3P7
+29713,Dick,NULL,Dievendorff,103040.00,Male,Bradford,"W. York, England, United Kingdom",BD1 4SJ
+29714,Rudolph,J.,Dillon,104042.00,Male,595 Burning Street,"Vancouver, British Columbia, Canada",V7L 4J4
+29716,Blaine,NULL,Dockter,91524.00,Male,99000 S. Avalon Blvd. Suite 750,"Carson, California, United States",90746
+29717,Cindy,M.,Dodd,81453.00,NULL,994 Sw Cherry Park Rd,"Troutdale, Oregon, United States",97060
+29719,Patricia,NULL,Doyle,64450.00,NULL,225 South 314th Street,"Federal Way, Washington, United States",98003
+29720,Gerald,M.,Drury,71480.00,Male,4635 S. Harrison Blvd.,"Ogden, Utah, United States",84401
+29722,Reuben,NULL,D'sa,102491.00,Male,"9950 Ferrand Drive, 9th Floor","Toronto, Ontario, Canada",M4B 1V4
+29727,Bart,NULL,Duncan,62135.00,Male,99295 S.e. Tualatin Valley_hwy.,"Hillsboro, Oregon, United States",97123
+29728,Maciej,NULL,Dusza,73210.00,Male,2564 S. Redwood Rd.,"Riverton, Utah, United States",84065
+29730,Linda,R.,Ecoffey,90470.00,NULL,"67255 - 8th Street N.E., Suite 350","Calgary, Alberta, Canada",T2P 2G8
+29732,Carol,B.,Elliott,69105.00,NULL,25220 Airline Road,"Corpus Christi, Texas, United States",78404
+29733,Shannon,P.,Elliott,86782.00,NULL,Factory Stores/tucson,"Tucson, Arizona, United States",85701
+29734,Jauna,E.,Elson,67775.00,NULL,2573 Dufferin Street,"Toronto, Ontario, Canada",M4B 1V5
+29736,Terry,NULL,Eminhizer,108359.00,Male,Warrington Ldc Unit 25/2,"Woolston, England, United Kingdom",WA1 4SY
+29737,John,NULL,Emory,68431.00,Male,Medford,"Medford, Oregon, United States",97504
+29738,Gail,NULL,Erickson,85475.00,NULL,44025 W. Empire,"Denby, South Dakota, United States",57716
+29739,Mark,B,Erickson,101911.00,Male,Factory Stores Of America,"Mesa, Arizona, United States",85201
+29740,Martha,R.,Espinoza,91186.00,NULL,6700 Boul Taschereau,"Brossard, Quebec, Canada",J4Z 1C5
+29741,Janeth,NULL,Esteves,66845.00,NULL,"6 The Farm, Liberty Road","Maidenhead, England, United Kingdom",SL67RJ
+29742,Twanna,R.,Evans,114665.00,NULL,Lewis County Mall,"Chehalis, Washington, United States",98532
+29743,Ann,R.,Evans,69295.00,NULL,Ring Plaza,"Norridge, Illinois, United States",60706
+29744,John,NULL,Evans,78347.00,Male,7709 West Virginia Avenue,"Phoenix, Arizona, United States",85004
+29747,Carolyn,NULL,Farino,66742.00,NULL,3250 South Meridian,"Puyallup, Washington, United States",98371
+29748,Geri,P.,Farrell,94126.00,NULL,49925 Crestview Drive N.E.,"Rio Rancho, New Mexico, United States",87124
+29750,Rhoda,J.,Finley,74713.00,NULL,6030 Conroy Road,"Ottawa, Ontario, Canada",K4B 1S3
+29753,Kathie,NULL,Flood,60210.00,NULL,705 SE Mall Parkway,"Everett, Washington, United States",98201
+29755,Kelly,NULL,Focht,90287.00,NULL,5990 Avebury Road,"Mississauga, Ontario, Canada",L5B 3V4
+29757,Garth,NULL,Fort,117207.00,Male,3250 Baldwin Park Blvd,"Baldwin Park, California, United States",91706
+29758,Dorothy,J.,Fox,67667.00,NULL,Lakeline Mall,"Cedar Park, Texas, United States",78613
+29761,Susan,E.,French,97345.00,NULL,69251 Creditview Road,"Mississauga, Ontario, Canada",L5B 3V4
+29763,Mihail,NULL,Frintu,108624.00,Male,Bayshore Mall,"Eureka, California, United States",95501
+29764,John,NULL,Ford,76968.00,Male,23025 S.W. Military Rd.,"San Antonio, Texas, United States",78204
+29765,Paul,J.,Fulton,73089.00,Male,Horizon Outlet Center,"Monroe, Michigan, United States",98272
+29766,Bob,NULL,Gage,106962.00,Male,"43251 Viking Way, Unit 130","Richmond, British Columbia, Canada",V6B 3P7
+29768,Michael,NULL,Galos,72584.00,Male,West Park Plaza,"Irvine, California, United States",92614
+29769,Jon,NULL,Ganio,70231.00,Male,3900 S. 997th St.,"Milwaukee, Wisconsin, United States",53202
+29770,Kathleen,M.,Garza,92555.00,NULL,6388 Lake City Way,"Burnaby, British Columbia, Canada",V5A 3A6
+29771,Dominic,P.,Gash,92006.00,Male,5420 West 22500 South,"Salt Lake City, Utah, United States",84101
+29772,Janet,M.,Gates,70073.00,NULL,800 Interchange Blvd.,"Austin, Texas, United States",78701
+29772,Janet,M.,Gates,83044.00,NULL,165 North Main,"Austin, Texas, United States",78701
+29773,Orlando,N.,Gee,68421.00,Male,2251 Elliot Avenue,"Seattle, Washington, United States",98104
+29774,Darren,NULL,Gehring,107033.00,Male,509 Nafta Boulevard,"Laredo, Texas, United States",78040
+29775,Jim,NULL,Geist,105687.00,Male,35525-9th Street Sw,"Puyallup, Washington, United States",98371
+29776,Barbara,J.,German,64416.00,NULL,"Science Park South, Birchwood","Warrington, England, United Kingdom",WA3 7BH
+29778,Leo,NULL,Giakoumakis,114040.00,Male,"Elmhurst Road, Goring","Reading, England, United Kingdom",RG7 5H7
+29780,Frances,J.,Giglio,69031.00,Male,9979 Bayview Drive,"Barrie, Ontario, Canada",L4N
+29781,Guy,NULL,Gilbert,66247.00,Male,Vista Marketplace,"Alhambra, California, United States",91801
+29782,Janet,J.,Gilliat,94760.00,NULL,9995 West Central Entrance,"Duluth, Minnesota, United States",55802
+29783,Mary,M.,Gimmi,110568.00,NULL,5525 South Hover Road,"Longmont, Colorado, United States",80501
+29784,Jeanie,R.,Glenn,93053.00,NULL,9909 W. Ventura Boulevard,"Camarillo, California, United States",93010
+29785,Diane,R.,Glimp,108962.00,NULL,4400 March Road,"Kanata, Ontario, Canada",K2L 1H5
+29787,Scott,NULL,Gode,79526.00,Male,2583 Se 272nd St,"Kent, Washington, United States",98031
+29788,Mete,NULL,Goktepe,100069.00,Male,Hanford Mall,"Hanford, California, United States",93230
+29789,Brian,R,Goldstein,84485.00,Male,965 De La Gauchetiere West,"Montreal, Quebec, Canada",H1Y 2H8
+29792,Abigail,J.,Gonzalez,112598.00,NULL,99450 Highway 59 North,"Humble, Texas, United States",77338
+29793,Michael,NULL,Graff,64706.00,Male,9700 Sisk Road,"Modesto, California, United States",95354
+29794,Derek,NULL,Graham,70826.00,Male,655-4th Ave S.W.,"Calgary, Alberta, Canada",T2P 2G8
+29796,Jon,NULL,Grande,73296.00,Male,Galashiels,"Liverpool, England, United Kingdom",L4 4HB
+29797,Jane,P.,Greer,74511.00,NULL,2550 Signet Drive,"Weston, Ontario, Canada",M9V 4W3
+29799,Douglas,NULL,Groncki,92109.00,Male,70259 West Sunnyview Ave,"Visalia, California, United States",93291
+29800,Brian,NULL,Groth,106425.00,Male,Gateway,"Portland, Oregon, United States",97205
+29803,Hattie,J.,Haemon,89182.00,NULL,55 Lakeshore Blvd East,"Toronto, Ontario, Canada",M4B 1V6
+29805,Erin,M.,Hagens,89840.00,NULL,25001 Montague Expressway,"Milpitas, California, United States",95035
+29806,Betty,M.,Haines,118758.00,NULL,640 South 994th St. W.,"Billings, Montana, United States",59101
+29807,Bryan,NULL,Hamilton,109193.00,Male,Station E,"Chalk Riber, Ontario, Canada",K0J 1J0
+29809,Kerim,NULL,Hanif,67897.00,Male,60025 Bollinger Canyon Road,"San Ramon, California, United States",94583
+29810,Jean,P.,Handley,84915.00,NULL,259826 Russell Rd. South,"Kent, Washington, United States",98031
+29813,Katherine,NULL,Harding,83519.00,NULL,52560 Free Street,"Toronto, Ontario, Canada",M4B 1V7
+29815,Lucy,NULL,Harrington,117616.00,Male,482505 Warm Springs Blvd.,"Fremont, California, United States",94536
+29816,Keith,NULL,Harris,86991.00,Male,7943 Walnut Ave,"Renton, Washington, United States",98055
+29816,Keith,NULL,Harris,99240.00,Male,3207 S Grady Way,"Renton, Washington, United States",98055
+29818,Roger,NULL,Harui,107233.00,Male,9927 N. Main St.,"Tooele, Utah, United States",84074
+29819,Ann,T.,Hass,101538.00,NULL,Medford Outlet Center,"Medford, Minnesota, United States",55049
+29822,James,B.,Haugh,80078.00,Male,"660 Saint-Jacques, Bureau 400","Montreal, Quebec, Canada",H1Y 2H8
+29824,Brenda,F.,Heaney,86348.00,NULL,990th Floor 700 De La GauchetiSre Ou,"Montreal, Quebec, Canada",H1Y 2H3
+29826,John,NULL,Hanson,82598.00,Male,825 W 500 S,"Bountiful, Utah, United States",84010
+29827,Valerie,M.,Hendricks,104803.00,NULL,Kansas City Factory Outlet,"Odessa, Missouri, United States",64076
+29830,Kari,NULL,Hensien,97839.00,Male,"253131 Lake Frasier Drive, Office No. 2","Calgary, Alberta, Canada",T2P 2G8
+29831,Irene,J.,Hernandez,94180.00,NULL,"25730, boul. St-Régis","Dorval, Quebec, Canada",H9P 1H1
+29832,Jésus,NULL,Hernandez,116069.00,Male,"32605 West 252 Mile Road, Suite 250","Aurora, Ontario, Canada",L4G 7N6
+29834,Cheryl,M.,Herring,80165.00,NULL,Corp Ofc Accts Payable,"El Segundo, California, United States",90245
+29835,Ronald,K.,Heymsfield,102365.00,Male,250775 SW Hillsdale Hwy,"Beaverton, Oregon, United States",97005
+29840,Andrew,R.,Hill,70023.00,Male,7000 Victoria Park Avenue,"Toronto, Ontario, Canada",M4B 1V4
+29842,Mike,NULL,Hines,79406.00,Male,25250 N 90th St,"Scottsdale, Arizona, United States",85257
+29843,Matthew,NULL,Hink,95859.00,Male,No. 60 Bellis Fair Parkway,"Bellingham, Washington, United States",98225
+29847,David,NULL,Hodgson,101300.00,Male,99700 Bell Road,"Auburn, California, United States",95603
+29848,Helge,NULL,Hoeing,94813.00,NULL,Cedar Creek Stores,"Mosinee, Wisconsin, United States",54455
+29850,Bob,NULL,Hodges,94565.00,Male,Ohms Road,"Houston, Texas, United States",77003
+29851,Jean,J.,Holloway,105258.00,NULL,Unit 99a Battery Retail Pk,"Birmingham, England, United Kingdom",B29 6SL
+29852,Eddie,M.,Holmes,88664.00,Male,"Bureau 9900 825, Avenue Querbes","Outremont, Quebec, Canada",H1Y 2G5
+29853,Juanita,J.,Holman,111272.00,NULL,Lake Elisnor Place,"Lake Elsinore, California, United States",92530
+29854,Peter,NULL,Houston,73209.00,Male,1200 First Ave.,"Joliet, Illinois, United States",60433
+29855,Curtis,P.,Howard,109652.00,Male,"6th Floor, 25st Canadian Place","Toronto, Ontario, Canada",M4B 1V5
+29857,Janice,K.,Hows,116062.00,NULL,399 Clearing Green,"London, England, United Kingdom",EC1R 0DU
+29858,George,M.,Huckaby,94341.00,Male,3390 South 23rd St.,"Tacoma, Washington, United States",98403
+29859,Joshua,J.,Huff,114850.00,Male,Management Mall,"San Antonio, Texas, United States",78204
+29860,Arlene,NULL,Huff,69168.00,NULL,2574 Milton Park,"Oxford, England, United Kingdom",OX14 4SE
+29861,Phyllis,R.,Huntsman,111682.00,NULL,99 Front Street,"Minneapolis, Minnesota, United States",55402
+29861,Phyllis,R.,Huntsman,99909.00,NULL,City Center,"Minneapolis, Minnesota, United States",55402
+29862,Lawrence,E.,Hurkett,113101.00,Male,6753 Howard Hughes Parkway,"Las Vegas, Nevada, United States",89106
+29863,Ryan,NULL,Ihrig,113368.00,Male,"250333 Southport Road, S.W.","Calgary, Alberta, Canada",T2P 2G8
+29864,Beth,NULL,Inghram,78152.00,NULL,9259 - 1110th Avenue Sw,"Calgary, Alberta, Canada",T2P 2G8
+29865,Lucio,NULL,Iallo,89678.00,Male,Simi @ The Plaza,"Simi Valley, California, United States",93065
+29866,Richard,L.,Irwin,70106.00,Male,"99828 Routh Street, Suite 825","Dallas, Texas, United States",75201
+29867,Erik,NULL,Ismert,114695.00,Male,4927 S Meridian Ave Ste D,"Puyallup, Washington, United States",98371
+29868,Denean,J.,Ison,72208.00,NULL,"586 Fulham Road,","London, England, United Kingdom",SW6 SBY
+29870,Bronson,R.,Jacobs,103373.00,Male,2510 Crew Court,"Montreal, Quebec, Canada",H1Y 2H8
+29871,Eric,A.,Jacobsen,87951.00,Male,Topanga Plaza,"Canoga Park, California, United States",91303
+29872,Jodan,M.,Jacobson,111883.00,NULL,6030 Robinson Road,"Jefferson City, Missouri, United States",65101
+29873,Mary,NULL,Alexander,60530.00,NULL,2345 West Spencer Road,"Lynnwood, Washington, United States",98036
+29874,David,NULL,Jaffe,93898.00,Male,Wade Road,"Basingstoke Hants, England, United Kingdom",RG24 8PL
+29876,Vance,P.,Johns,72586.00,NULL,65 Gamelin Street,"Hull, Quebec, Canada",8Y
+29877,Joyce,NULL,Jarvis,77219.00,NULL,955 E. County Line Rd.,"Englewood, Colorado, United States",80110
+29879,Stephen,Yuan,Jiang,64631.00,Male,9900 Ronson Drive,"Etobicoke, Ontario, Canada",M9W 3P3
+29881,Danielle,B.,Johnson,74792.00,NULL,955 Green Valley Crescent,"Ottawa, Ontario, Canada",K4B 1S1
+29883,Barry,NULL,Johnson,107828.00,Male,2000 300th Street,"Denver, Colorado, United States",80203
+29883,Barry,NULL,Johnson,117632.00,Male,2530 South Colorado Blvd.,"Denver, Colorado, United States",80203
+29884,Brian,NULL,Johnson,61462.00,Male,625 W Jackson Blvd. Unit 2502,"Chicago, Illinois, United States",60610
+29885,David,NULL,Johnson,117249.00,Male,7990 Ocean Beach Hwy.,"Longview, Washington, United States",98632
+29889,Jean,NULL,Jordan,90919.00,NULL,440 West Huntington Dr.,"Monrovia, California, United States",91016
+29890,Peggy,J.,Justice,88512.00,NULL,15 East Main,"Port Orchard, Washington, United States",98366
+29891,Diane,F.,Krane,95210.00,NULL,46460 West Oaks Drive,"Novi, Michigan, United States",48375
+29892,Sandra,T.,Kitt,73286.00,NULL,258 King Street East,"Toronto, Ontario, Canada",M4B 1V7
+29893,Sandeep,NULL,Kaliyath,104819.00,Male,630 N. Capitol Ave.,"San Jose, California, United States",95112
+29895,Lori,NULL,Kane,69460.00,NULL,9693 Louis H Lafontaine,"Ville De'anjou, Quebec, Canada",J1G 2R3
+29897,Kay,E.,Krane,104963.00,NULL,9228 Via Del Sol,"Phoenix, Arizona, United States",85004
+29897,Kay,E.,Krane,100213.00,NULL,Prime Outlets,"Phoenix, Arizona, United States",85004
+29898,Sandeep,NULL,Katyal,83876.00,Male,765 Delridge Way Sw,"Seattle, Washington, United States",98104
+29900,Victor,A.,Kelley,79849.00,Male,2900 - 25055 Dunning Street,"Vancouver, British Columbia, Canada",V7L 4J4
+29901,John,NULL,Kelly,118140.00,Male,Pacific West Outlet,"Gilroy, California, United States",95020
+29902,Robert,NULL,Kelly,79246.00,Male,6425 Nw Loop 410,"San Antonio, Texas, United States",78204
+29903,Kevin,NULL,Kennedy,115321.00,Male,2550 Ne Sandy Blvd,"Portland, Oregon, United States",97205
+29904,Mary,R.,Kesslep,103791.00,NULL,Wharfdale Road,"Berkshire, England, United Kingdom",RG11 5TP
+29905,Elizabeth,NULL,Keyser,75882.00,NULL,"6400, 888 - 3rd Avenue","Calgary, Alberta, Canada",T2P 2G8
+29906,Imtiaz,NULL,Khan,94659.00,Male,25095 W. Florissant,"Ferguson, Missouri, United States",63135
+29907,Karan,NULL,Khanna,63298.00,NULL,755 W Washington Ave Ste D,"Sequim, Washington, United States",98382
+29908,Joe,NULL,Kim,62998.00,Male,308-3250 Casting Road,"York, England, United Kingdom",Y024 1GF
+29910,Shane,S.,Kim,78608.00,Male,No. 25400 10665 Jasper Avenue,"Edmonton, Alberta, Canada",T5
+29911,Tim,NULL,Kim,88776.00,Male,25 Danger Street West,"Toronto, Ontario, Canada",M4B 1V5
+29913,Anton,NULL,Kirilov,76668.00,Male,2575 Rocky Mountain Ave.,"Loveland, Colorado, United States",80537
+29914,Christian,NULL,Kleinerman,95571.00,Male,25150 El Camino Real,"San Bruno, California, United States",94066
+29915,Andrew,P.,Kobylinski,88664.00,Male,2526a Tri-Lake Blvd Ne,"Kirkland, Washington, United States",98033
+29918,Kirk,T,King,113432.00,Male,2521 McPherson Street,"Markham, Ontario, Canada",L3S 3K2
+29919,Eugene,NULL,Kogan,112630.00,Male,6756 Mowry,"Newark, California, United States",94560
+29920,Scott,NULL,Konersmann,63517.00,Male,52500 Liberty Way,"Fort Worth, Texas, United States",76102
+29921,Joy,R.,Koski,NULL,NULL,258101 Nw Evergreen Parkway,"Beaverton, Oregon, United States",97005
+29922,Pamala,M.,Kotc,79944.00,NULL,"Garamonde Drive, Wymbush","Milton Keynes, England, United Kingdom",MK8 8ZD
+29924,Mitch,NULL,Kennedy,93824.00,Male,"C/O Starpak, Inc.","Greeley, Colorado, United States",80631
+29925,Margaret,T.,Krupka,101643.00,NULL,Great Northwestern,"North Bend, Washington, United States",98045
+29926,Deepak,NULL,Kumar,115699.00,Male,255 Irving Street,"London, England, United Kingdom",C2H 7AU
+29928,Vamsi,NULL,Kuppa,118048.00,Male,3255 Front Street West,"Toronto, Ontario, Canada",M4B 1V6
+29929,Jeffrey,NULL,Kurtz,108187.00,Male,Receiving,"Fullerton, California, United States",92831
+29930,Peter,NULL,Kurniawan,77424.00,Male,63 W Monroe,"Chicago, Illinois, United States",60610
+29931,Eric,NULL,Lang,81701.00,Male,25300 Biddle Road,"Medford, Oregon, United States",97504
+29932,Rebecca,NULL,Laszlo,119687.00,NULL,"Phoenix Way, Cirencester","Gloucestershire, England, United Kingdom",GL7 1RY
+29934,David,O,Lawrence,105490.00,Male,2512-4th Ave Sw,"Calgary, Alberta, Canada",T2P 2G8
+29935,Elsa,NULL,Leavitt,103482.00,NULL,2575 West 2700 South,"Salt Lake City, Utah, United States",84101
+29936,Michael,J.,Lee,63067.00,Male,25718 Se Sunnyside Rd,"Clackamas, Oregon, United States",97015-6403
+29937,Marjorie,M.,Lee,102819.00,NULL,2509 W. Frankford,"Carrollton, Texas, United States",75006
+29938,Frank,NULL,Campbell,116905.00,Male,251340 E. South St.,"Cerritos, California, United States",90703
+29939,Mark,NULL,Lee,75250.00,Male,2512-410th Avenue S.W.,"Calgary, Alberta, Canada",T2P 2G8
+29941,Jolie,NULL,Lenehan,64102.00,NULL,"Garamonde Drive, Wymbush","Milton Keynes, England, United Kingdom",MK8 8ZD
+29942,Roger,NULL,Lengel,90002.00,Male,490 Ne 4th St,"Renton, Washington, United States",98055
+29943,A.,Francesca,Leonetti,77816.00,NULL,5700 Legacy Dr,"Plano, Texas, United States",75074
+29944,Bonnie,B.,Lepro,64236.00,NULL,25600 E St Andrews Pl,"Santa Ana, California, United States",92701
+29946,Linda,NULL,Leste,117129.00,NULL,630 University Avenue,"Toronto, Ontario, Canada",M4B 1V7
+29948,Elsie,L.,Lewin,99628.00,NULL,P.O. Box 6256916,"Dallas, Texas, United States",75201
+29949,George,Z.,Li,95212.00,Male,910 Main Street.,"Sparks, Nevada, United States",89431
+29950,Yale,NULL,Li,93478.00,Male,992 St Clair Ave East,"Toronto, Ontario, Canada",M4B 1V7
+29952,Yuhong,NULL,Li,61895.00,NULL,Bradford,"W. York, England, United Kingdom",BD1 4SJ
+29953,Joseph,M.,Lique,70482.00,Male,257700 Ne 76th Street,"Redmond, Washington, United States",98052
+29954,Paulo,H.,Lisboa,62493.00,Male,9178 Jumping St.,"Dallas, Texas, United States",75201
+29954,Paulo,H.,Lisboa,62462.00,Male,Po Box 8259024,"Dallas, Texas, United States",75201
+29955,David,J.,Liu,105369.00,Male,855 East Main Avenue,"Zeeland, Michigan, United States",49464
+29956,Jinghao,NULL,Liu,106182.00,NULL,90025 Sterling St,"Irving, Texas, United States",75061
+29957,Kevin,NULL,Liu,106432.00,Male,9992 Whipple Rd,"Union City, California, United States",94587
+29959,Todd,R.,Logan,73837.00,Male,575 Rue St Amable,"Quebec, Quebec, Canada",G1R
+29962,Sharon,J.,Looney,111248.00,NULL,74400 France Avenue South,"Edina, Minnesota, United States",55436
+29964,Anita,R.,Lucerne,101725.00,NULL,6333 Cote Vertu,"Montreal, Quebec, Canada",H1Y 2H7
+29967,Judy,R.,Lundahl,66865.00,NULL,25149 Howard Dr,"West Chicago, Illinois, United States",60185
+29969,Robert,P.,Lyeba,73053.00,Male,63 Free St.,"Toronto, Ontario, Canada",M4B 1V4
+29971,Robert,NULL,Lyon,83571.00,Male,609 Evans Avenue,"Toronto, Ontario, Canada",M4B 1V4
+29973,Denise,R.,Maccietto,60095.00,NULL,Port Huron,"Port Huron, Michigan, United States",48060
+29974,Scott,NULL,MacDonald,108312.00,Male,St. Louis Marketplace,"Saint Louis, Missouri, United States",63103
+29975,Walter,J.,Mays,111246.00,Male,Po Box 252525,"Santa Ana, California, United States",92701
+29978,Ajay,NULL,Manchepalli,94945.00,Male,"25 Hartfield Road, Wimbledon","London, England, United Kingdom",SW19 3RU
+29980,Tomas,M.,Manzanares,97886.00,Male,"99 Dean Street, Soho","London, England, United Kingdom",W1V 5RN
+29981,Kathy,R.,Marcovecchio,65929.00,NULL,9905 Three Rivers Drive,"Kelso, Washington, United States",98626
+29982,Melissa,R.,Marple,61292.00,NULL,603 Gellert Blvd,"Daly City, California, United States",94015
+29983,Cecelia,L.,Marshall,115478.00,NULL,9984 Wellington Street,"Ottawa, Ontario, Canada",K4B 1S2
+29985,Linda,NULL,Martin,118498.00,NULL,"Park House-4th Floor, 2516 Park St.","London, England, United Kingdom",W1Y 3RA
+29987,Frank,NULL,Mart¡nez,92816.00,Male,870 N. 54th Ave.,"Chandler, Arizona, United States",85225
+29988,Steve,NULL,Masters,86823.00,Male,2545 King Street West,"Toronto, Ontario, Canada",M4B 1V7
+29990,Jennifer,J.,Maxham,97979.00,NULL,"Butterfield Hse, 7-251 Chapel St","Lancaster, England, United Kingdom",LA1 1LN
+29991,Chris,NULL,Maxwell,96485.00,Male,3025 E Waterway Blvd,"Shelton, Washington, United States",98584
+29992,Sandra,B.,Maynard,75510.00,NULL,9952 E. Lohman Ave.,"Las Cruces, New Mexico, United States",88001
+29994,Robin,M.,McGuigan,112824.00,NULL,2500 University Avenue,"Toronto, Ontario, Canada",M4B 1V5
+29997,Lola,M.,McCarthy,108689.00,NULL,1050 Oak Street,"Seattle, Washington, United States",98104
+29998,Jane,A.,McCarty,104242.00,NULL,409 Santa Monica Blvd.,"Santa Monica, California, United States",90401
+30000,James,L.,McCoy,67064.00,Male,"9900-6400 Boul, Taschereau","Brossard, Quebec, Canada",J4Z 1R4
+30003,Yvonne,NULL,McKay,100312.00,NULL,Horizon Outlet,"Woodbury, Minnesota, United States",55125
+30004,Nkenge,NULL,McLin,80483.00,NULL,Frontier Mall,"Cheyenne, Wyoming, United States",82001
+30005,Nancy,A.,McPhearson,118575.00,NULL,46-44 Albemarle Street,"London, England, United Kingdom",W1X3SE
+30007,Raquel,NULL,Mello,74501.00,NULL,No. 2000-25080 Beaver Hall Hill,"Quebec, Quebec, Canada",G1R
+30008,R. Morgan,L.,Mendoza,85476.00,Male,Johnson Creek,"Johnson Creek, Wisconsin, United States",53038
+30010,Stephen,A.,Mew,100103.00,Male,250 Kingsbridge Garden Circle,"Mississauga, Ontario, Canada",L5B 3V4
+30012,Helen,M.,Meyer,97926.00,NULL,7505 Laguna Boulevard,"Elk Grove, California, United States",95624
+30016,Thomas,R.,Michaels,94213.00,Male,"5th Floor, 79 Place D'armes","Kingston, Ontario, Canada",7L
+30018,Virginia,L.,Miller,98262.00,NULL,8713 Yosemite Ct.,"Bothell, Washington, United States",98011
+30018,Virginia,L.,Miller,70157.00,NULL,25111 228th St Sw,"Bothell, Washington, United States",98011
+30019,Matthew,J.,Miller,90482.00,Male,Wymbush,"Milton Keynes, England, United Kingdom",MK8 8DF
+30021,Ben,NULL,Miller,71435.00,Male,Suite 500 995 W. 11th Avenue,"Mississauga, Ontario, Canada",L5A 1H6
+30022,Dylan,NULL,Miller,69225.00,Male,Parkway Plaza,"El Cajon, California, United States",92020
+30023,Frank,NULL,Miller,99590.00,Male,123 W. Lake Ave.,"Peoria, Illinois, United States",61606
+30024,Neva,M.,Mitchell,107191.00,NULL,2528 Meridian E,"Puyallup, Washington, United States",98371
+30025,Linda,NULL,Mitchell,105001.00,NULL,"New Millhouse, 2583 Milton Park","Abingdon, England, United Kingdom",OX14 4SE
+30027,Joseph,P.,Mitzner,102106.00,Male,123 Camelia Avenue,"Oxnard, California, United States",93030
+30028,Laura,C.,Steele,75172.00,NULL,253731 West Bell Road,"Surprise, Arizona, United States",85374
+30029,Shanay,B.,Steelman,71200.00,NULL,5 place Ville-Marie,"Montreal, Quebec, Canada",H1Y 2H7
+30030,Stefano,NULL,Stefani,90524.00,Male,997b Tradescant Road,"London, England, United Kingdom",SW8 1XD
+30031,Alan,NULL,Steiner,70780.00,Male,2255 254th Avenue Se,"Albany, Oregon, United States",97321
+30032,Derik,NULL,Stenerson,88760.00,Male,Factory Merchants,"Branson, Missouri, United States",65616
+30033,Vassar,J.,Stern,84876.00,Male,25130 South State Street,"Sandy, Utah, United States",84070
+30034,Wathalee,R.,Steuber,114268.00,NULL,700 Se Sunnyside Road,"Clackamas, Oregon, United States",97015
+30035,Alice,M.,Steiner,98718.00,NULL,Lone Star Factory,"La Marque, Texas, United States",77568
+30036,Liza Marie,N.,Stevens,96335.00,NULL,7750 E Marching Rd,"Scottsdale, Arizona, United States",85257
+30037,Jim,NULL,Stewart,96327.00,Male,999 West Georgia St.,"Vancouver, Ontario, Canada",V5T 1Y9
+30039,Robert,B.,Stotka,91107.00,Male,Sports Stores @ Tuscola,"Tuscola, Illinois, United States",61953
+30040,Kayla,M.,Stotler,88565.00,NULL,9980 S Alma School Road,"Chandler, Arizona, United States",85225
+30042,Ruby Sue,R.,Styles,88042.00,NULL,46990 Viking Way,"Richmond, British Columbia, Canada",V6B 3P7
+30044,Gary,J.,Suess,100506.00,Male,725a The Arches,"Berks, England, United Kingdom",SL4 1RH
+30045,Ruth,J.,Suffin,69704.00,NULL,Lancaster Mall,"Salem, Oregon, United States",97301
+30046,Elizabeth,J.,Sullivan,67319.00,NULL,Town East Center,"Mesquite, Texas, United States",75149
+30047,Michael,NULL,Sullivan,68577.00,Male,5867 Sunrise Boulevard,"Citrus Heights, California, United States",95610
+30048,Marcia,J.,Sultan,95932.00,NULL,251420a 170th Street,"Edmonton, Alberta, Canada",T5
+30050,Krishna,NULL,Sunkammurali,93884.00,Male,Paramount House,"London, England, United Kingdom",W1N 9FA
+30051,Brad,NULL,Sutton,92451.00,Male,Three Rivers Mall,"Kelso, Washington, United States",98626
+30052,Abraham,L.,Swearengin,98041.00,Male,9920 Bridgepointe Parkway,"San Mateo, California, United States",94404
+30053,Katherine,K.,Swan,106009.00,NULL,975 Princess Street,"Kingston, Ontario, Canada",7L
+30055,Julie,NULL,Taft-Rider,76618.00,NULL,6996 South Lindbergh,"Saint Louis, Missouri, United States",63103
+30056,Clarence,R.,Tatman,83376.00,Male,San Diego Factory,"San Ysidro, California, United States",92173
+30058,Mike,M.,Taylor,113223.00,Male,750 Philip Street,"Waterloo, Ontario, Canada",N2V
+30061,Chad,J.,Tedford,66168.00,Male,9500b E. Central Texas Expressway,"Killeen, Texas, United States",76541
+30063,Vanessa,J.,Tench,80349.00,NULL,2500 N Serene Blvd,"El Segundo, California, United States",90245
+30064,Judy,J.,Thames,100067.00,NULL,25102 Springwater,"Wenatchee, Washington, United States",98801
+30067,Phyllis,A.,Thomas,91407.00,NULL,"99, Rue Saint-pierre","Pnot-Rouge, Quebec, Canada",J1E 2T7
+30069,Donald,M.,Thompson,60331.00,Male,25472 Marlay Ave,"Fontana, California, United States",92335
+30070,Kendra,N.,Thompson,117258.00,NULL,22571 South 2500 East,"Idaho Falls, Idaho, United States",83402
+30071,Daniel,P.,Thompson,71461.00,Male,755 Nw Grandstand,"Issaquah, Washington, United States",98027
+30072,Andrea,A.,Thomsen,82448.00,NULL,251 The Metro Center,"Wokingham, England, United Kingdom",RG41 1QW
+30074,Yuping,NULL,Tian,87456.00,NULL,Depot 80,"Sillery, Quebec, Canada",G1T
+30076,Diane,NULL,Tibbott,112422.00,NULL,8525 South Parker Road,"Parker, Colorado, United States",80138
+30080,Delia,B.,Toone,102180.00,NULL,755 Columbia Ctr Blvd,"Kennewick, Washington, United States",99337
+30083,Glenn,J.,Track,68464.00,Male,55 Standish Court,"Mississauga, Ontario, Canada",L5B 3V4
+30087,Billy,J.,Trent,87602.00,Male,"99954 Boul. Laurier, Local 060, Place","Sainte-Foy, Quebec, Canada",G1W
+30089,Michael John,R.,Troyer,113145.00,Male,Oxnard Outlet,"Oxnard, California, United States",93030
+30090,Christie,J.,Trujillo,94553.00,NULL,"One Dancing, Rr No. 25","Round Rock, Texas, United States",78664
+30093,Phyllis,B.,Tuffield,81066.00,NULL,9960 King Street E.,"Toronto, Ontario, Canada",M4B 1V5
+30094,Sairaj,NULL,Uddin,75310.00,Male,Natomas Marketplace,"Sacramento, California, United States",95814
+30095,Sunil,NULL,Uppal,110932.00,Male,25500 Old Spanish Trail,"Houston, Texas, United States",77003
+30098,Esther,K.,Valle,90840.00,NULL,600 Boul. Rene-levesque Ouest,"Montreal, Quebec, Canada",H1Y 2H7
+30100,Jessie,E.,Valerio,101968.00,Male,Mall Of Orange,"Orange, California, United States",92867
+30102,Roger,NULL,Van Houten,112973.00,Male,"Internet House, 3399 Science Park","Cambridge, England, United Kingdom",CB4 4BZ
+30104,Rose,M.,Vandenouer,97209.00,NULL,"7 Garden House Cloisters, 8 Batters","London, England, United Kingdom",SW8 4BG
+30105,Gregory,T.,Vanderbout,93497.00,Male,950 Gateway Street,"Springfield, Oregon, United States",97477
+30106,Michael,NULL,Vanderhyde,100740.00,Male,Lincoln Square,"Arlington, Texas, United States",76010
+30107,Margaret,J.,Vanderkamp,119888.00,NULL,62500 Neil Road,"Reno, Nevada, United States",89502
+30108,Kara,N.,Vanderlinden,98897.00,NULL,2520 Flanders Road,"Toronto, Ontario, Canada",M4B 1V4
+30109,Nieves,J.,Vargas,106966.00,Male,Kensington Valley Shops,"Howell, Michigan, United States",48843
+30110,Gary,T,Vargas,101459.00,Male,Stevens Creek Shopping Center,"San Jose, California, United States",95112
+30111,Ranjit,Rudra,Varkey Chudukatil,113867.00,Male,455 256th St.,"Moline, Illinois, United States",61265
+30112,Patricia,M.,Vasquez,87354.00,NULL,409 S. Main Ste. 25,"Ellensburg, Washington, United States",98926
+30113,Raja,D.,Venugopal,68327.00,Male,Burgess Hill,"West Sussex, England, United Kingdom",RH15 9UD
+30115,Dora,P.,Verdad,80082.00,NULL,Suite 2502 410 Albert Street,"Waterloo, Ontario, Canada",N2V
+30116,Wanda,F.,Vernon,61432.00,NULL,Ontario Mills,"Ontario, California, United States",91764
+30117,Robert,R.,Vessa,114166.00,Male,72540 Blanco Rd.,"San Antonio, Texas, United States",78204
+30118,Caroline,A.,Vicknair,86444.00,NULL,660 Lindbergh,"Saint Louis, Missouri, United States",63103
