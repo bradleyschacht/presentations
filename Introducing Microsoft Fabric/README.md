@@ -49,7 +49,7 @@ df.write.format("Delta").save("Tables/customer")
 
 ### **Warehouse**
 1. Create a new warehouse called WideWorldImportersDW.
-2. Create a pipeline to copy data from the **WideWorldImportersDW.Warehouse.StockItems** table in Azure SQL DB to the **dbo.Item** table in the warehouse.
+2. Create a pipeline to copy data from the **WideWorldImportersDW.Dimension.StockItem** table in Azure SQL DB to the **dbo.StockItem** table in the warehouse.
 3. Show connecting to the database with Azure Data Studio (or SSMS). 
 4. Run a few queries and show the cross database query functionality. 
 
@@ -61,7 +61,7 @@ SELECT TOP 100
     Region,
     s.Subregion,
     s.SalesTerritory,
-    i.StockItemName,
+    i.StockItem,
     i.Size,
     i.Brand,
     c.Customer,
@@ -72,31 +72,57 @@ SELECT TOP 100
     s.Profit,
     s.TotalPrice
 FROM WideWorldImportersLH.dbo.sale AS s
-INNER JOIN dbo.Item AS i
-    ON s.ItemID = i.StockItemID
+INNER JOIN dbo.StockItem AS i
+    ON s.ItemID = i.StockItemKey
 INNER JOIN WideWorldImportersLH.dbo.customer AS c
     ON s.CustomerID = c.CustomerID
 WHERE
-    c.BuyingGroup = 'Tailspin Toys'
+    i.StockItem LIKE '%pizza%'
 
 SELECT
     s.Region,
     s.Subregion,
     s.SalesTerritory,
-    i.StockItemName,
+    i.StockItem,
     SUM(s.Quantity) AS TotalQuantity,
     SUM(s.Profit) AS TotalProfit,
     SUM(s.TotalPrice) AS TotalPrice
 FROM WideWorldImportersLH.dbo.sale AS s
-INNER JOIN dbo.Item AS i
-    ON s.ItemID = i.StockItemID
+INNER JOIN dbo.StockItem AS i
+    ON s.ItemID = i.StockItemKey
 INNER JOIN WideWorldImportersLH.dbo.customer AS c
     ON s.CustomerID = c.CustomerID
 WHERE
-    c.BuyingGroup = 'Tailspin Toys'
+    i.StockItem LIKE '%pizza%'
 GROUP BY
     s.Region,
     s.Subregion,
     s.SalesTerritory,
-    i.StockItemName
+    i.StockItem
+
+SELECT
+    CONCAT(d.CalendarYear, '-', RIGHT(CONCAT('0', d.CalendarMonthNumber), 2)) AS YearMonth,
+    s.Region,
+    s.Subregion,
+    s.SalesTerritory,
+    i.StockItem,
+    SUM(s.Quantity) AS TotalQuantity,
+    SUM(s.Profit) AS TotalProfit,
+    SUM(s.TotalPrice) AS TotalPrice
+FROM WideWorldImportersLH.dbo.sale AS s
+INNER JOIN dbo.StockItem AS i
+    ON s.ItemID = i.StockItemKey
+INNER JOIN WideWorldImportersLH.dbo.customer AS c
+    ON s.CustomerID = c.CustomerID
+INNER JOIN WideWorldImportersLH.dbo.date AS d
+    ON s.InvoiceDateID = d.Date
+WHERE
+    i.StockItem LIKE '%pizza%'
+GROUP BY
+    s.Region,
+    s.Subregion,
+    s.SalesTerritory,
+    i.StockItem,
+    d.CalendarYear,
+    d.CalendarMonthNumber
 ```
